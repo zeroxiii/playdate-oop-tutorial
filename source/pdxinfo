@@ -1,7 +1,7 @@
-name=Game Name
-author=Author Name
-description=This is a Playdate game.
-bundleID=com.domain.GameName
+name=OOPTutorial
+author=Rahmaan Lodhia
+description=This is a Playdate game tutorial for OOP in Lua.
+bundleID=com.domain.OOPTutorial
 version=1.0
 imagePath=system-assets
-buildNumber=6
+buildNumber=1

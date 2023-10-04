@@ -6,7 +6,7 @@ local gfx <const> = pd.graphics
 class('Wizard').extends(Player)
 
 function Wizard:init(x, y)
-	local wizardImage = gfx.image.new("image/wizard")
+	local wizardImage = gfx.image.new("images/wizard")
 	Wizard.super.init(self, x, y, wizardImage)
 	self.moveSpeed = 4
 	self.projectileSpeed = 8
