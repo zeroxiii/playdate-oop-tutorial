@@ -5,6 +5,7 @@ import "CoreLibs/timer"
 
 import "knight"
 import "giant"
+import "wizard"
 
 local pd <const> = playdate
 local gfx <const> = pd.graphics
